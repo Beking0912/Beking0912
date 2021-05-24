@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Brook, a front-end development enginner from China.
+I'm Brook, a front-end development engineer from China.
 
 ![beking's github stats](https://github-readme-stats.vercel.app/api?username=Beking0912&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beking0912&layout=compact)
