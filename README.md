@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Biqing Su, a front-end development engineer from China.
+Hi I'm **Biqing (Gloria) Su**, a Front-End Engineer with over 2 years of experience. 
+Incoming Master of Computer Science at NCSU.
+
+Committed to be with efficient workflow and maintainable and long-lasting code quality.
 
 ![beking's github stats](https://github-readme-stats.vercel.app/api?username=Beking0912&show_icons=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beking0912&layout=compact&count_private=true)
