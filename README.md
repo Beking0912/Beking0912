@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi I'm **Biqing (Gloria) Su**, a Front-End Engineer with over 2 years of experience. 
-Incoming Master of Computer Science at NCSU.
+Master student of Computer Science at NCSU.
 
 Committed to be with efficient workflow and maintainable and long-lasting code quality.
 
