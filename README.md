@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi I'm **Biqing (Gloria) Su**, a Front-End Engineer with over 2 years of experience. 
+Hi I'm **Biqing (Gloria) Su**, a Software Engineer with around 2 years of experience. 
 Master student of Computer Science at NCSU.
 
 Committed to be with efficient workflow and maintainable and long-lasting code quality.
+
+**See more at my personal website: [Gloria's Notebook](https://beking0912.github.io/about/)**
 
 ![beking's github stats](https://github-readme-stats.vercel.app/api?username=Beking0912&show_icons=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beking0912&layout=compact&count_private=true)
