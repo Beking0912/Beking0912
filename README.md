@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name's Gloria Su. A software engineer from China🇨🇳.
 <!--
 **Beking0912/Beking0912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi I'm **Biqing (Gloria) Su**, a Software Engineer with around 2 years of experience. 
-Master student of Computer Science at NCSU.
-
-Committed to be with efficient workflow and maintainable and long-lasting code quality.
+- 🧗‍♀️ I’m currently pursuing an MS in Computer Science @ NCSU.
+- 🔍 I’m actively looking for 23 summer SDE internship opportunities.
+- 🧐 I am specialize in highly interactive React applications that work across platforms.
+- 💗 My favorite programming languages are JavaScript, TypeScript and Python, also comfortable with Java.
+- 🔑 My tech keywords: Adaptable, Problem solving, Code review, Open source.
+- 📮 Feel free to say hello to me: bsu5@ncsu.edu
 
 **See more at my personal website: [Gloria's Notebook](https://beking0912.github.io/about/)**
 
