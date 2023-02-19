@@ -20,6 +20,50 @@ Here are some ideas to get you started:
 - 💗 My favorite programming languages are JavaScript, TypeScript and Python, also comfortable with Java.
 - 🔑 My tech keywords: Adaptable, Problem solving, Code review, Open source.
 - 📮 Feel free to say hello to me: bsu5@ncsu.edu
+<br/>
+<p class="tech-icon">
+  <img src="https://img.shields.io/badge/OS-macOS-informational?style=flat-square&amp;logo=apple&amp;logoColor=white"
+    alt="OS" />
+  <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white"
+    alt="OS" />
+  <img
+    src="https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&amp;logo=visual-studio-code&amp;logoColor=white"
+    alt="Editor" />
+</p>
+<p class="tech-icon">
+  <img src="https://img.shields.io/badge/-Python-%232C3A42?style=flat-square&amp;logo=python" alt="Python" />
+  <img
+    src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&amp;logo=javascript&amp;logoColor=000000&amp;labelColor=%23F7DF1C&amp;color=%23FFCE5A"
+    alt="JavaScript" />
+  <img
+    src="https://img.shields.io/badge/-TypeScript-%23F7DF1C?style=flat-square&amp;logo=typeScript&amp;logoColor=000000&amp;labelColor=%23CC6699&amp;color=%23CC6699"
+    alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&amp;logo=html5&amp;logoColor=ffffff"
+    alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&amp;logo=css3" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" alt="Nodejs" />
+  <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&amp;logo=webpack" alt="Webpack" />
+  <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&amp;logo=eslint" alt="ESlint" />
+</p>
+
+<p class="tech-icon">
+  <img src="https://img.shields.io/badge/-React-%23282C34?style=flat-square&amp;logo=react" alt="React" />
+  <img src="https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=Vue.js" alt="Vue.js" />
+  <img
+    src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white"
+    alt="Styled Components" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="Rollup"
+    src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
+  <img alt="Prettier"
+    src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="MongoDB"
+    src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&amp;logo=git&amp;logoColor=%23ffffff"
+    alt="Git" />
+</p>
+
+<br /> 
 
 **See more at my personal website: [Gloria's Notebook](https://beking0912.github.io/about/)**
 
