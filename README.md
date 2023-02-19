@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>
 My name's Gloria Su. A software engineer from China🇨🇳.
 <!--
 **Beking0912/Beking0912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
