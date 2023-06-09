@@ -67,5 +67,5 @@ Here are some ideas to get you started:
 
 **See more at my personal website: [Gloria's Notebook](https://beking0912.github.io/about/)**
 
-![beking's github stats](https://github-readme-stats.vercel.app/api?username=Beking0912&show_icons=true&count_private=true)
+<!-- ![beking's github stats](https://github-readme-stats.vercel.app/api?username=Beking0912&show_icons=true&count_private=true) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beking0912&layout=compact&count_private=true)
