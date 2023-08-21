@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🧐 I am specialize in highly interactive React applications that work across platforms.
 - 💗 My favorite programming languages are JavaScript, TypeScript and Python, also comfortable with Java.
 - 🔑 My tech keywords: Adaptable, Problem solving, Code review, Open source.
-- 📮 Feel free to say hello to me: bsu5@ncsu.edu
+- 📮 Feel free to hit me up regarding Frontend dev, Google Summer of Code, internships, or anything really: bsu5@ncsu.edu
 <br/>
 <p class="tech-icon">
   <img src="https://img.shields.io/badge/OS-macOS-informational?style=flat-square&amp;logo=apple&amp;logoColor=white"
