@@ -20,7 +20,24 @@ Here are some ideas to get you started:
 - 💗 My favorite programming languages are JavaScript, TypeScript and Python, also comfortable with Java.
 - 🔑 My tech keywords: Adaptable, Problem solving, Code review, Open source.
 - 📮 Feel free to hit me up regarding Frontend dev, Google Summer of Code, internships, or anything really: bsu5@ncsu.edu
-<br/>
+
+<br /> 
+
+**See more at my personal website: [Gloria's Notebook](https://beking0912.github.io/about/)**
+
+#### 🤾‍♂️ <a href="https://tw93.fun" target="_blank">Recent Blog</a>
+
+<!-- blog starts -->
+* <a href='https://beking0912.github.io/2023/09/04/Google-Summer-of-Code/' target='_blank'>Google Summer of Code: My Journey & Guide</a> - 2023-09-04
+* <a href='https://beking0912.github.io/2023/08/21/Open-Source-Journey-Guide-My-GSoC-2023/' target='_blank'>GSoC 2023: Interactive Web Tour</a> - 2023-08-21
+* <a href='https://beking0912.github.io/2023/07/28/Minimal-Nuxt-3-starter-with-Vuetify-Pinia-and-Google-login/' target='_blank'>Minimal Nuxt 3 starter with Vuetify, Pinia and Google login</a> - 2023-07-28
+* <a href='https://beking0912.github.io/2023/07/09/Migration-Guide-Vue2-Nuxt2-Vuetify2-to-Vue3-Nuxt3-Vuetify3/' target='_blank'>Migration Guide: Vue2/Nuxt2/Vuetify2 to Vue3/Nuxt3/Vuetify3</a> - 2023-07-09
+
+<br />
+
+<!-- ![beking's github stats](https://github-readme-stats.vercel.app/api?username=Beking0912&show_icons=true&count_private=true) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beking0912&layout=compact&count_private=true)
+
 <p class="tech-icon">
   <img src="https://img.shields.io/badge/OS-macOS-informational?style=flat-square&amp;logo=apple&amp;logoColor=white"
     alt="OS" />
@@ -45,7 +62,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&amp;logo=webpack" alt="Webpack" />
   <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&amp;logo=eslint" alt="ESlint" />
 </p>
-
 <p class="tech-icon">
   <img src="https://img.shields.io/badge/-React-%23282C34?style=flat-square&amp;logo=react" alt="React" />
   <img src="https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=Vue.js" alt="Vue.js" />
@@ -62,10 +78,3 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&amp;logo=git&amp;logoColor=%23ffffff"
     alt="Git" />
 </p>
-
-<br /> 
-
-**See more at my personal website: [Gloria's Notebook](https://beking0912.github.io/about/)**
-
-<!-- ![beking's github stats](https://github-readme-stats.vercel.app/api?username=Beking0912&show_icons=true&count_private=true) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beking0912&layout=compact&count_private=true)
