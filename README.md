@@ -25,13 +25,14 @@ Here are some ideas to get you started:
 
 **See more at my personal website: [Gloria's Notebook](https://beking0912.github.io/about/)**
 
-#### 🤾‍♂️ <a href="https://tw93.fun" target="_blank">Recent Blog</a>
+#### 🤾‍♂️ <a href="https://tw93.fun" target="_blank">Recent Blogs</a>
 
 <!-- blog starts -->
+* <a href='https://beking0912.github.io/2023/12/12/llvm/' target='_blank'>LLVM Pass Development I: Branch-Pointer Trace
+</a> - 2023-12-12
 * <a href='https://beking0912.github.io/2023/09/04/Google-Summer-of-Code/' target='_blank'>Google Summer of Code: My Journey & Guide</a> - 2023-09-04
 * <a href='https://beking0912.github.io/2023/08/21/Open-Source-Journey-Guide-My-GSoC-2023/' target='_blank'>GSoC 2023: Interactive Web Tour</a> - 2023-08-21
 * <a href='https://beking0912.github.io/2023/07/28/Minimal-Nuxt-3-starter-with-Vuetify-Pinia-and-Google-login/' target='_blank'>Minimal Nuxt 3 starter with Vuetify, Pinia and Google login</a> - 2023-07-28
-* <a href='https://beking0912.github.io/2023/07/09/Migration-Guide-Vue2-Nuxt2-Vuetify2-to-Vue3-Nuxt3-Vuetify3/' target='_blank'>Migration Guide: Vue2/Nuxt2/Vuetify2 to Vue3/Nuxt3/Vuetify3</a> - 2023-07-09
 
 <br />
 
