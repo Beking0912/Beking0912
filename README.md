@@ -14,12 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🧗‍♀️ I’m currently pursuing an MS in Computer Science @ NCSU.
-- 🔍 I’m actively looking for 24 new grad full-time SDE opportunities.
+
 - 🧐 I am specialize in highly interactive React applications that work across platforms.
 - 💗 My favorite programming languages are JavaScript, TypeScript and Python, also comfortable with Java.
 - 🔑 My tech keywords: Adaptable, Problem solving, Code review, Open source.
-- 📮 Feel free to hit me up regarding Frontend dev, Google Summer of Code, internships, or anything really: bsu5@ncsu.edu
+- 📮 Feel free to hit me up regarding Frontend dev, Google Summer of Code, or anything really: bsu5@ncsu.edu
 
 <br /> 
 
