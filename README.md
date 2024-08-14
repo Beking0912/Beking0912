@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 - 🧐 I am specialize in highly interactive React applications that work across platforms.
 - 💗 My favorite programming languages are JavaScript, TypeScript and Python, also comfortable with Java.
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 📮 Feel free to hit me up regarding Frontend dev, Google Summer of Code, or anything really: bsu5@ncsu.edu
 
 <br /> 
-
+-->
 **See more at my personal website: [Gloria's Notebook](https://beking0912.github.io/about/)**
 
 #### 🤾‍♂️ <a href="https://tw93.fun" target="_blank">Recent Blogs</a>
